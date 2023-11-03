@@ -37,7 +37,7 @@ License:
 This project is available under the MIT License.
 
 Author:
-[Sandip Gadekar]
+Sandip Gadekar
 
 Feel free to customize this summary with the actual details of your project and your GitHub username. This should give potential users and contributors a good understanding of what your PandaLogin Page project is all about.
 
